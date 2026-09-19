@@ -1,4 +1,5 @@
 import {Tabs} from "expo-router";
+import { View } from "react-native";
 import {tabs} from "@/constants/data";
 import { colors, components} from "@/constants/theme";
 import {Image} from "react-native";
